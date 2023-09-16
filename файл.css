@@ -1,0 +1,20 @@
+h1{text-align: center;
+   margin: 0 auto;}
+p[class=grup]{ text-align: left;}
+p[class=brig]{text-align: right;}
+p[class=fio]{text-align: right;}
+p[class=Stih]{margin-left: 40px;}
+p[class=Pushkin]{text-align: right;
+                 font-size: small;}
+p[class=nemnogo]{text-align: center;
+                font-size: xx-large;
+                padding-top: 20px;
+               color: blue;
+             text-shadow: 2px 2px 5px black;
+            font-family: arial;}
+div[class=history]{background-color: LightGrey;
+                padding-bottom: 30px;}
+div[class=story]{background-color: white;
+                width: 600px;
+                margin: 0 auto;
+              border-right: 10px double blue;}
